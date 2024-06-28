@@ -85,7 +85,7 @@ class MyHomePage extends StatelessWidget {
               ),
               SizedBox(height: 20),
               Text(
-                'Enjoy your day',
+                'Enjoy your ',
                 style: TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
