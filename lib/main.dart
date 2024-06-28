@@ -28,7 +28,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.lightBlue[50], // Light blue background
       appBar: AppBar(
-        title: Text('Welcome to Weather App thala'),
+        title: Text('Welcome to Weather App '),
         backgroundColor: Colors.blueAccent,
       ),
       body: SingleChildScrollView(
