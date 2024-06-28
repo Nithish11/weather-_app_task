@@ -74,7 +74,7 @@ class MyHomePage extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                '1. Sign in with your Google account.\n'
+                '1. Sign in with your Google \n'
                 '2. View your profile and weather information on the same screen.\n'
                 '3. Click on a city to see detailed weather information.',
                 textAlign: TextAlign.left,
